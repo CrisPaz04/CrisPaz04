@@ -1,9 +1,9 @@
 # Hi there 👋, Cristhian here. 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=CrisPaz04.repoName) [![GitHub followers](https://img.shields.io/github/followers/CrisPaz04.svg?style=social&label=Follow)](https://github.com/CrisPaz04?tab=followers)<br/>
 
-<img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 I am an undergraduate Computer Technology Engineering student at Universidad de San Pedro Sula. Javascript, HTML, and C# are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
 * **I am interested in Web designing, Android development, and digital marketing**
