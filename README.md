@@ -33,7 +33,19 @@ __Check out my GitHub repository:__
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,js,ts,css,html,mysql,react,bootstrap,firebase,nodejs,stackoverflow,laravel,cs,npm,md,figma,powershell,raspberrypi,arduino,py,php,notion,discord&perline=14" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,css,html,mysql,bootstrap,firebase,cs,npm,md&perline=14" />
+  </a>
+</p>
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Tools I use👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,powershell,discord,stackoverflow,figma,notion&perline=14" />
   </a>
 </p>
 
